@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Wix+Madefor+Display:wght@400;500;600;700&display=swap");
+
+body {
+    font-family: "Wix Madefor Display", sans-serif;
+}
+
+.container {
+    max-width: 1100px;
+    margin: auto;
+    text-align: center;
+}
+
+textarea {
+    box-sizing: border-box;
+    width: 90%;
+    font-family: "Wix Madefor Display", sans-serif;
+    height: 300px;
+    padding: 20px;
+    outline: none;
+    border-radius: 10px;
+    border: 2px solid rgb(128, 128, 128, 0.5);
+    resize: none;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
